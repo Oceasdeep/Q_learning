@@ -1,5 +1,5 @@
 #Q_learning project
-# #author 徐海洋 at 18-10-10
+# #author XU Haiyang at 18-10-10
 
 import numpy as np
 import pandas as pd
